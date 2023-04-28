@@ -1,0 +1,20 @@
+[
+    {
+        "item_id":"T7_MEAL_OMELETTE",
+        "craft_count":10,
+        "recipe":[
+            {
+                "item_id":"T7_CORN",
+                "count":36
+            },
+            {
+                "item_id":"T7_MEAT",
+                "count":72	
+            },
+            {
+                "item_id":"T5_EGG",
+                "count":18
+            }
+        ]
+    }
+]
